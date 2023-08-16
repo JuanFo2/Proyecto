@@ -16,12 +16,13 @@
         <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css" rel="stylesheet" />
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="estilos/regisestilo.css" rel="stylesheet" />
+        <?php
+            include "navbar.php";
+            ?>
     </head>
     <body class="d-flex flex-column">
         <main class="flex-shrink-0">
-            <?php
-            include "navbar.php";
-            ?>
+            
             <!-- Page content-->
             <section class="py-5">
                 <div class="container px-5">
@@ -44,7 +45,12 @@
                                     <!-- Name input-->
                                     <div class="form-floating mb-3">
                                         <input class="form-control" id="name" type="text" placeholder="Enter your name..." data-sb-validations="required" />
-                                        <label for="name">Nombre Completo</label>
+                                        <label for="name">Nombre</label>
+                                        <div class="invalid-feedback" data-sb-feedback="name:required">Complete la casilla.</div>
+                                    </div>
+                                    <div class="form-floating mb-3">
+                                        <input class="form-control" id="name" type="text" placeholder="Enter your name..." data-sb-validations="required" />
+                                        <label for="name">Apellido</label>
                                         <div class="invalid-feedback" data-sb-feedback="name:required">Complete la casilla.</div>
                                     </div>
                                     <!-- Email address input-->

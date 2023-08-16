@@ -32,6 +32,12 @@
 
 </head>
 <!-- ======= About Section ======= -->
+<?php
+  include "navbar.php";
+  ?>
+  <h1>"</h1>
+  <h1>"</h1>
+  <h5>"</h5>
 <section id="about" class="about">
   <div class="container">
 
