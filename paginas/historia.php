@@ -158,7 +158,7 @@
     <div class="bg-body-tertiary me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
       <div class="my-3 p-3">
         <h2 class="display-5">Copa Finalissima</h2>
-        <a class="btn btn-outline-secondary" href="assets/finalissima.png">Click para saber mas</a>
+        <a href="finalissima.php "<a class="btn btn-outline-secondary" href="assets/finalissima.png">Click para saber mas</a></a>
       </div>
       <div class="bg-dark shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0;"><img src="assets/finalissima.png"></div>
     </div>
