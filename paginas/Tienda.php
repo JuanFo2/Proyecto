@@ -46,7 +46,7 @@
                             </div>
                             <!-- Product actions-->
                             <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Añadir al carrito</a></div>
+                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="individual_camiseta_enzo.php">Ver más</a></div>
                             </div>
                         </div>
                     </div>
@@ -76,7 +76,7 @@
                             </div>
                             <!-- Product actions-->
                             <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Añadir al carrito</a></div>
+                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="individual_pantalon_arg.php">Ver más</a></div>
                             </div>
                         </div>
                     </div>
@@ -98,7 +98,7 @@
                             </div>
                             <!-- Product actions-->
                             <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Añadir al carrito</a></div>
+                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="individual_camiseta_suplente.php">Ver más</a></div>
                             </div>
                         </div>
                     </div>
@@ -125,7 +125,7 @@
                             </div>
                             <!-- Product actions-->
                             <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Añadir al carrito</a></div>
+                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="individual_camperon.php">Ver más</a></div>
                             </div>
                         </div>
                     </div>
@@ -148,7 +148,7 @@
                             <!-- Product actions-->
                             
                             <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Añadir al carrito</a></div>
+                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="individual_medias.php">Ver más</a></div>
                             </div>
                         </div>
                     </div>
@@ -167,7 +167,7 @@
                             </div>
                             <!-- Product actions-->
                             <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Añadir al carrito</a></div>
+                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="individual_camiseta_julian.php">Ver más</a></div>
                             </div>
                         </div>
                     </div>
@@ -197,7 +197,7 @@
                             </div>
                             <!-- Product actions-->
                             <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Añadir al carrito</a></div>
+                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="individual_camiseta_leo.php">Ver más</a></div>
                             </div>
                         </div>
                     </div>
@@ -224,7 +224,7 @@
                             </div>
                             <!-- Product actions-->
                             <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Añadir al carrito</a></div>
+                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="individual_camiseta_dibu.php">Ver más</a></div>
                             </div>
                         </div>
                     </div>
