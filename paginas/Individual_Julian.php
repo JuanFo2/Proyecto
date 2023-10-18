@@ -66,7 +66,7 @@
                 <span></span>
               </li>
               <li><i class="bi bi-chevron-right"></i> <strong>Ciudad Natal:</strong> <span>Calchin, Cordoba</span></li>
-              <li><i class="bi bi-chevron-right"></i> <strong>Altura:</strong> <span>1,70 M</span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>Altura:</strong> <span>1,71 M</span></li>
               <li><i class="bi bi-chevron-right"></i> <strong>Peso:</strong> <span>71 KG</span></li>
             </ul>
           </div>
